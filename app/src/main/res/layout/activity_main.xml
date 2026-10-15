@@ -22,7 +22,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
-        android:backgroundTint="#4CAF50"
+        android:backgroundTint="#F44336"
         android:text="@string/button_1"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
