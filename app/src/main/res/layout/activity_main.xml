@@ -32,7 +32,7 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#F44336"
+        android:backgroundTint="#4CAF50"
         android:text="@string/button_2"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
